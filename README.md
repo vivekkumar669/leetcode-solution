@@ -1,4 +1,28 @@
-# leetcode-solution
+# 🚀 LeetCode Solutions
+
+Welcome to my LeetCode solutions repository! This repo contains my solutions to various LeetCode problems, organized by topic and difficulty.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solved-5-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
+  <img src="https://img.shields.io/badge/Easy-3-blue?style=for-the-badge" alt="Easy">
+  <img src="https://img.shields.io/badge/Medium-2-orange?style=for-the-badge" alt="Medium">
+  <img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge" alt="Hard">
+</p>
+
+## 📂 Project Structure
+
+- Each folder is named after the LeetCode problem (e.g., `0001-two-sum`).
+- Inside each folder, you'll find:
+  - `README.md`: Problem description.
+  - `<problem-name>.cpp`: My C++ implementation.
+
+## 🛠️ Built With
+
+- **Language:** C++
+- **Automation:** [LeetCode Sync GitHub Action](https://github.com/joshcai/leetcode-sync)
+
+---
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
